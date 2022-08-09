@@ -5,3 +5,4 @@ int num2 = 10;
 Console.WriteLine (Math.Abs(num2) * Math.Sin(num2));
 Console.WriteLine(Math.PI * num2 * 2);
 Console.WriteLine(Math.Max(num, num2));
+//checked
